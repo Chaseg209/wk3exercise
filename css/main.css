@@ -1,0 +1,67 @@
+
+body {
+	margin: 0;
+}
+
+
+
+
+nav {
+	text-align: center;
+	background-color: steelblue;
+	height: auto;
+	margin: auto;
+	font-family: sans-serif;
+	padding: 10px 0 10px 0;
+	font-weight: 500;
+	font-size: 18px;
+}
+
+nav ul li {
+	list-style-type: none;
+	text-decoration: none;
+	display: inline;
+	margin: 0 30px 0 30px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: darkgrey;
+	transition: 2s;
+}
+
+.buttons {
+	text-align: center;
+	padding: 10px 10px;
+}
+
+button {
+	font-size: 16px; 
+	background-color: steelblue;
+	color: white;
+	font-family: sans-serif;
+	border-radius: 20px;
+	margin: 5px 5px;
+	padding: 10px 5px;
+}
+
+
+button:hover {
+	box-shadow: 8px 8px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
